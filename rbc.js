@@ -1,6 +1,6 @@
 console.log("040307.js checking in.");
 console.log("This page uses the color values for the rainbow located at https://www.krishnamani.in/color-codes-for-rainbow-vibgyor-colours/.")
-alert("The rgba values are logged to the console for those curious.");
+alert("Click the screen to alert rgba color values. The rgba values are also logged to the console for those curious.");
 
 // RAINBOW
 const xdiv = Math.floor(window.innerWidth/6);
